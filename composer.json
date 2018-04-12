@@ -1,0 +1,17 @@
+{
+    "name": "foryoufeng/md5sign",
+    "description": "A MD5 encryption algorithm",
+    "type": "library",
+    "authors": [
+        {
+            "name": "foryoufeng",
+            "email": "1906592238@qq.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Foryoufeng\\Md5Sign\\": "src/"
+        }
+    }
+}
