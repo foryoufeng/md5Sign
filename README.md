@@ -1,7 +1,7 @@
 # md5Sign
 ## A MD5 encryption algorithm/一个md5加密的签名算法
 
- [中文文档](./README_zh_CN.md "中文文档")
+ [查看中文文档](./README_zh_CN.md "查看中文文档")
  
 > MD5 algorithm is used to verify and add data to the data, so that different languages, such as PHP, Java and JS, can communicate with each other between API.
 
